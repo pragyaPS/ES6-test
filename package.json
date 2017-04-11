@@ -1,0 +1,26 @@
+{
+  "name": "webpack-first",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "transpiling",
+    "es6"
+  ],
+  "author": "Pragya",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.3.3"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
