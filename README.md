@@ -1,1 +1,1 @@
-# ES6-tes
+# setting up webpack for ES6
